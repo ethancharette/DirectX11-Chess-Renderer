@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.exe
+*.cso
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+
+# NuGet (restored automatically by Visual Studio)
+packages/

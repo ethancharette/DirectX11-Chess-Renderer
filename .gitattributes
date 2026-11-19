@@ -1,0 +1,11 @@
+# Normalize text files; keep Windows line endings for VS project files
+* text=auto
+*.sln     text eol=crlf
+*.vcxproj text eol=crlf
+*.filters text eol=crlf
+
+# Binary assets
+*.png        binary
+*.jpg        binary
+*.dds        binary
+*.spritefont binary
